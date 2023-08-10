@@ -161,7 +161,7 @@ if work=="Yes" or avg_wage=="Yes":
             else:
                 st.write("You are not able to get your monthly payouts :sob:")
             if value[1]==True:
-                st.success("Congratualations on hitting the Full Retirement Sum at 55!")
+                st.success("Congratulations on hitting the Full Retirement Sum at 55!")
                 with st.expander("Click here to understand how you can increase your payouts"):
                     st.warning("The current Full Retirement Sum is $198 800 for the cohort turning 55 in 2023. This is the maximum amount you can have in your special account before you hit 55.")
                     st.warning("When your retirement account is first opened, the maximum amount it has is $198800")
