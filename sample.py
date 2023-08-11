@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-st.title("Welcome to CPF Retirement Calculator for Youths!")
+st.title("Welcome to CPF Retirement Calculator for the Not So Old! :full_moon_with_face:")
 st.caption("Please note that this is a simplified calculator where we assume no salary increment and no interest changes. This is not an official calculator by CPF")
 st.caption("To view your results, please fill in all relevant details")
 
